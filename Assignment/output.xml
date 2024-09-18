@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Rebot 7.1 (Python 3.12.6 on win32)" generated="2024-09-18T22:29:33.248649" rpa="false" schemaversion="5">
+<suite id="s1" name="Assign23" source="C:\Users\FCTKSV\Desktop\Robot\Assignment\assign23.robot">
+<test id="s1-t1" name="Parallel Test 1" line="2">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Running Test 1</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-09-18T22:29:32.887442" elapsed="0.001000"/>
+</kw>
+<status status="PASS" start="2024-09-18T22:29:32.887442" elapsed="0.001000"/>
+</test>
+<test id="s1-t2" name="Parallel Test 2" line="5">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Running Test 2</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-09-18T22:29:32.888442" elapsed="0.001000"/>
+</kw>
+<status status="PASS" start="2024-09-18T22:29:32.888442" elapsed="0.001000"/>
+</test>
+<test id="s1-t3" name="Parallel Test 3" line="8">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Running Test 3</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-09-18T22:29:32.890044" elapsed="0.000000"/>
+</kw>
+<status status="PASS" start="2024-09-18T22:29:32.889442" elapsed="0.000602"/>
+</test>
+<doc>[https://pabot.org/?ref=log|Pabot] result from 1 executions.</doc>
+<status status="PASS" start="2024-09-18T22:29:32.875000" elapsed="0.014605"/>
+</suite>
+<statistics>
+<total>
+<stat pass="3" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="3" fail="0" skip="0" id="s1" name="Assign23">Assign23</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
